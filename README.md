@@ -1,5 +1,5 @@
 
-#About The Project
+# About The Project
 
 This project is a fun and collaborative effort to build a real-time chat application using React, Tailwind CSS, and Firebase. Our primary goal is to learn and explore various technologies while building a functional chat app that can be used to communicate with friends and colleagues.
 
